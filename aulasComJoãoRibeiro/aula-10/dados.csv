@@ -1,0 +1,4 @@
+id_cliente,nome,email,endereco
+1,João Silva,joaosilva@exemplo.com,Rua Principal 123, Qualquer Cidade, SP 12345
+2,Maria Oliveira,mariaoliveira@exemplo.com,Rua das Flores 456, Qualquer Cidade, SP 12345
+3,Pedro Santos,pedrosantos@exemplo.com,Rua do Sol 789, Qualquer Cidade, SP 12345
